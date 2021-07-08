@@ -1,0 +1,6 @@
+C:\Users\micah\Desktop\Smith-Micah\Assignments\Assignment2\ChatLib\bin\Debug\ChatLib.dll
+C:\Users\micah\Desktop\Smith-Micah\Assignments\Assignment2\ChatLib\bin\Debug\ChatLib.pdb
+C:\Users\micah\Desktop\Smith-Micah\Assignments\Assignment2\ChatLib\obj\Debug\ChatLib.csprojAssemblyReference.cache
+C:\Users\micah\Desktop\Smith-Micah\Assignments\Assignment2\ChatLib\obj\Debug\ChatLib.csproj.CoreCompileInputs.cache
+C:\Users\micah\Desktop\Smith-Micah\Assignments\Assignment2\ChatLib\obj\Debug\ChatLib.dll
+C:\Users\micah\Desktop\Smith-Micah\Assignments\Assignment2\ChatLib\obj\Debug\ChatLib.pdb

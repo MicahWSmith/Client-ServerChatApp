@@ -1,0 +1,9 @@
+C:\Users\micah\Desktop\Smith-Micah\Assignments\Assignment2\TaskHandler\bin\Debug\TaskHandler.dll
+C:\Users\micah\Desktop\Smith-Micah\Assignments\Assignment2\TaskHandler\bin\Debug\TaskHandler.pdb
+C:\Users\micah\Desktop\Smith-Micah\Assignments\Assignment2\TaskHandler\bin\Debug\ChatLib.dll
+C:\Users\micah\Desktop\Smith-Micah\Assignments\Assignment2\TaskHandler\bin\Debug\ChatLib.pdb
+C:\Users\micah\Desktop\Smith-Micah\Assignments\Assignment2\TaskHandler\obj\Debug\BusinessClass.csprojAssemblyReference.cache
+C:\Users\micah\Desktop\Smith-Micah\Assignments\Assignment2\TaskHandler\obj\Debug\BusinessClass.csproj.CoreCompileInputs.cache
+C:\Users\micah\Desktop\Smith-Micah\Assignments\Assignment2\TaskHandler\obj\Debug\BusinessClass.csproj.CopyComplete
+C:\Users\micah\Desktop\Smith-Micah\Assignments\Assignment2\TaskHandler\obj\Debug\TaskHandler.dll
+C:\Users\micah\Desktop\Smith-Micah\Assignments\Assignment2\TaskHandler\obj\Debug\TaskHandler.pdb
